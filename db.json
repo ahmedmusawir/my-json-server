@@ -1,0 +1,159 @@
+{
+  "contacts": [
+    {
+      "id": "SxgaYPJFo1kGHR13dTLJ",
+      "name": "Bibo Mony",
+      "firstName": "Bibo",
+      "lastName": "Mony1",
+      "email": "bibo@mony.com",
+      "phone": "404.218.edited1",
+      "roles": {
+        "type": "account",
+        "role": "user",
+        "locationIds": [
+          "4rKuULHASyQ99nwdL1XH"
+        ]
+      },
+      "companyName": "Edited Company 1"
+    },
+    {
+      "id": "SxgaYPJFo1kGHR13dTL0",
+      "name": "Nimat Mony",
+      "firstName": "Nimat",
+      "lastName": "Mony",
+      "email": "nimat@mony.com",
+      "phone": "404.218.1998",
+      "roles": {
+        "type": "account",
+        "role": "user",
+        "locationIds": [
+          "4rKuULHASyQ99nwdL1XH"
+        ]
+      }
+    },
+    {
+      "firstName": "Delete Me 5",
+      "email": "del@me5.com",
+      "id": "f964f864-876d-480d-8031-1b701135e0fc"
+    },
+    {
+      "firstName": "Delete Me 6",
+      "email": "del@me6.com",
+      "id": "52acd344-81e6-4457-824b-766c15f5c1bb",
+      "lastName": "Edited 1",
+      "phone": "404.666.edited1",
+      "companyName": "Edited 1 Inc."
+    },
+    {
+      "firstName": "Delete Me 7",
+      "email": "del@me7.com",
+      "id": "52309fc2-f032-4824-9ddc-e808e85d81ae",
+      "lastName": "Edited 7",
+      "phone": "404.777.edited1",
+      "companyName": "Edited 7 Corp."
+    },
+    {
+      "firstName": "Delete Me 8",
+      "email": "del@me8.com",
+      "id": "c5b601a8-299c-4b82-ab90-faaa37502c8e"
+    }
+  ],
+  "users": [
+    {
+      "id": "nl8S4EyHjcAqvcozQGOs",
+      "name": "Nihad Baba",
+      "firstName": "Nihad",
+      "lastName": "Baba",
+      "email": "nihad@gmail.com",
+      "phone": "+14043214567",
+      "roles": {
+        "type": "account",
+        "role": "user",
+        "locationIds": [
+          "4rKuULHASyQ99nwdL1XH"
+        ]
+      }
+    },
+    {
+      "id": "nl8S4EyHjcAqvco000s",
+      "name": "Nimat Mony",
+      "firstName": "Nimat",
+      "lastName": "Mony",
+      "email": "nihad@gmail.com",
+      "phone": "+14043214567",
+      "roles": {
+        "type": "account",
+        "role": "user",
+        "locationIds": [
+          "4rKuULHASyQ99nwdL1XH"
+        ]
+      }
+    },
+    {
+      "firstName": "Delete Me 2",
+      "email": "del@me2.com",
+      "id": "705b20d4-1656-4b4b-8146-5f5e303d37cc",
+      "lastName": "edit 1",
+      "phone": "edit 1",
+      "companyName": "",
+      "roles": {
+        "role": "edit 1"
+      }
+    },
+    {
+      "firstName": "Delete Me 3",
+      "lastName": "edited 3",
+      "email": "del@me3.com",
+      "phone": "edited 3",
+      "roles": {
+        "role": "edited 3"
+      },
+      "id": "b14bbabf-4f32-4c9b-8c90-5c21951d316c"
+    },
+    {
+      "firstName": "Delete Me 5",
+      "email": "del@me5.com",
+      "id": "78e4f9f7-7cdb-4ca4-aee2-192224f505d7",
+      "lastName": "edited5",
+      "phone": "edited5",
+      "roles": {
+        "role": "VVV5"
+      }
+    },
+    {
+      "firstName": "AAA",
+      "email": "aaa@gmail.com",
+      "id": "55ad0776-9a6e-4b05-b6d6-1facb788d54a"
+    },
+    {
+      "firstName": "BBB 2",
+      "lastName": "edited 2",
+      "email": "bbb@emai.com",
+      "phone": "edited 2",
+      "roles": {
+        "role": "edited 2"
+      },
+      "id": "d4a90770-9813-4187-aceb-b2a566ba0da1"
+    },
+    {
+      "firstName": "CCC 3",
+      "lastName": "edited 3",
+      "email": "ccc@email.com",
+      "phone": "edited 3",
+      "roles": {
+        "role": "edited 3 admin"
+      },
+      "id": "0e2199cd-2be6-4164-b685-f33e0d3c061f"
+    },
+    {
+      "firstName": "DDD",
+      "lastName": "edited 1",
+      "email": "ddd@emil.com",
+      "phone": "edited 1",
+      "roles": {
+        "role": "edited 1"
+      },
+      "id": "85110335-1e9b-4dfe-b779-469e26fb953a"
+    }
+  ]
+}
