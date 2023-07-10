@@ -1,5 +1,6 @@
 # my-json-server
 
+```
 This is a setup for Local Json Server w/ GHL mimic Contact API
 
 -a---- 28/6/2023 7:49 AM 2177 .gitignore
@@ -10,8 +11,11 @@ This is a setup for Local Json Server w/ GHL mimic Contact API
 
 PS C:\REACT_APPS_ON_WINDOWS\my-json-server> json-server -p 3500 -w ./db.json
 
+```
+
 ## CONTENT OF DB.JSON
 
+```
 [
 {
 "id": "nl8S4EyHjcAqvcozQGOs",
@@ -44,3 +48,4 @@ PS C:\REACT_APPS_ON_WINDOWS\my-json-server> json-server -p 3500 -w ./db.json
 }
 }
 ]
+```
